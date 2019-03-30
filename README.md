@@ -1,4 +1,4 @@
-# Python Data Analysis for the Common Good
+# Python Data Analysis of Police Traffic Stops
 Exploratory data analysis using pandas and the Stanford Open Policing Project
 
 ## What are we going to cover?
