@@ -15,4 +15,7 @@ We'll be using the Maryland subset from the Stanford Open Policing Project, made
 
 ## What packages do I need to have installed?
 ![xkcd comic](https://imgs.xkcd.com/comics/python_environment.png "The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages.")
-([XCKD 1987](https://xkcd.com/1987/). CC License. Alt Text: "The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages.")
+
+([XCKD 1987](https://xkcd.com/1987/). CC License.
+
+
