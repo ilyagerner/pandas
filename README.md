@@ -7,6 +7,8 @@ Exploratory data analysis using pandas and the Stanford Open Policing Project
 We'll be using the Maryland subset of the [Stanford Open Policing Project](https://openpolicing.stanford.edu) dataset, made available under the Open Data Commons Attribution License.
 
 ## How do I download the dataset and the associated jupyter notebooks?
+There are three equally valid ways to get the data:
+
 - If you're comfortable with git, you can click the green button above and clone the repository:
 ```
 git clone https://github.com/ilyagerner/pandas_policing_tutorial.git
