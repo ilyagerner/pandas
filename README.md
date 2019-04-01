@@ -10,14 +10,14 @@ Rather than focus on statistical rigour, we'll first work through the practical 
 We'll be using a modified version of the Maryland subset of the [Stanford Open Policing Project](https://openpolicing.stanford.edu) dataset, made available under the Open Data Commons Attribution License.
 
 ## How do I download the dataset and the associated jupyter notebooks?
-There are three equally valid ways to get the data:
+There are two equally valid ways to get the data:
 
 - If you're comfortable with git, you can click the green button above and clone the repository:
 ```
 git clone https://github.com/ilyagerner/pandas_policing_tutorial.git
 ```
-- If you're comfortable with ZIP files, you can click the green button above and download the repository as a ZIP archive.
-- If you want to download the files individually, right click on these links and select "Save As": traffic_stops_md.csv, workshop.ipynb.
+- Otherwise you can click the green button above and download the repository as a ZIP archive.
+- Be sure to unzip the dataset into the same folder as the Jupyter workbook.
 
 ## What Python packages do I need to have installed?
 ![xkcd comic](https://imgs.xkcd.com/comics/python_environment.png "The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages.")
