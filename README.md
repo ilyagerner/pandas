@@ -28,8 +28,10 @@ We'll be using the following:
 - Python 3.7.3 (but we're unlikely to use any of the newest features, so older versions should work fine)
 - pandas
 - numpy
-- matplotlib
-- seaborn
+- matplotlib*
+- seaborn*
+
+*the graphing libraries are only necessary for a couple lines of code. 
 
 A good way to avoid the unpleasant scenario outlined in the XKCD comic is to rely on the Anaconda distribution for your data science libraries. This is less vital for Mac and Linux users, but important for Windows users thanks to the various C and FORTRAN dependencies in the Python data stack.
 
