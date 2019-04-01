@@ -4,9 +4,10 @@ Exploratory data analysis using Python, Pandas and data from the Stanford Open P
 ![Meme](https://i.imgflip.com/2xhjll.jpg)
 
 ## What are we going to cover?
+Rather than focus on statistical rigour, we'll first work through the practical aspects of data wrangling in Python. Then we'll discuss some of the pitfalls inherent in trying to draw conclusions from the messy world. All through out, we'll be working with a dataset that's relevant to anyone concerned about justice, public safety, and racial equality.
 
 ## What dataset are we using?
-We'll be using the Maryland subset of the [Stanford Open Policing Project](https://openpolicing.stanford.edu) dataset, made available under the Open Data Commons Attribution License.
+We'll be using a modified version of the Maryland subset of the [Stanford Open Policing Project](https://openpolicing.stanford.edu) dataset, made available under the Open Data Commons Attribution License.
 
 ## How do I download the dataset and the associated jupyter notebooks?
 There are three equally valid ways to get the data:
