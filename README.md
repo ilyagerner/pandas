@@ -1,4 +1,4 @@
-# Python Data Analysis of Police Traffic Stops
+# Introduction To Exploratory Data Analysis in Python
 Exploratory data analysis using pandas and the Stanford Open Policing Project
 
 ![Meme](https://i.imgflip.com/2xhjll.jpg)
