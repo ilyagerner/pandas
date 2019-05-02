@@ -1,4 +1,4 @@
-# Introduction To Exploratory Data Analysis in Python
+# Dive Into Exploratory Data Analysis with Python & Pandas
 Exploratory data analysis using Python, Pandas and data from the Stanford Open Policing Project.
 
 ![Meme](https://i.imgflip.com/2xhjll.jpg)
