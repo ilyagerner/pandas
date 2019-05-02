@@ -14,7 +14,7 @@ There are two equally valid ways to get the data:
 
 - If you're comfortable with git, you can click the green button above and clone the repository:
 ```
-git clone https://github.com/ilyagerner/pandas_policing_tutorial.git
+git clone https://github.com/ilyagerner/pandas.git
 ```
 - Otherwise you can click the green button above and download the repository as a ZIP archive.
 - Be sure to unzip the dataset into the same folder as the Jupyter workbook.
