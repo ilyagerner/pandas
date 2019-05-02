@@ -30,6 +30,7 @@ We'll be using the following:
 - numpy
 - matplotlib*
 - seaborn*
+- altair*
 
 *the graphing libraries are only necessary for a couple lines of code. 
 
