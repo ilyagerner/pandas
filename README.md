@@ -20,9 +20,6 @@ git clone https://github.com/ilyagerner/pandas.git
 - Be sure to unzip the dataset into the same folder as the Jupyter workbook.
 
 ## What Python packages do I need to have installed?
-![xkcd comic](https://imgs.xkcd.com/comics/python_environment.png "The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages.")
-
-([XCKD 1987](https://xkcd.com/1987/). CC License.)
 
 We'll be using the following:
 - Python 3.7.3 (but we're unlikely to use any of the newest features, so older versions should work fine)
