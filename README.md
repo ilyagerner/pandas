@@ -30,6 +30,7 @@ We'll be using the following:
 - altair*
 
 *the graphing libraries are only necessary for a couple lines of code. 
+They may be installed with [Pipenv](http://pipenv.org/).
 
 A good way to avoid the unpleasant scenario outlined in the XKCD comic is to rely on the Anaconda distribution for your data science libraries. This is less vital for Mac and Linux users, but important for Windows users thanks to the various C and FORTRAN dependencies in the Python data stack.
 
