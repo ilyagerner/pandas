@@ -41,7 +41,8 @@ A good way to avoid the unpleasant scenario outlined in the XKCD comic is to rel
 `
 jupyter notebook
 `
-3. On Windows, start the Anaconda launcher, which you can find in C:\Anaconda or, in the Start menu. Start the jupyter notebook by typing `jupyter notebook`. A new browser window should open.
+4. On Windows, start the Anaconda launcher, which you can find in C:\Anaconda or, in the Start menu. Start the jupyter notebook by typing `jupyter notebook`. A new browser window should open.
+   On Liux, open terminal window type **conda activate**, then type **jupyter notebook**
 
 ## Who led the workshop and is there a way to contact him??
 Ilya Gerner can be found on twitter as [@igerner](https://twitter.com/igerner) and via email at ilyagerner@gmail.com.
